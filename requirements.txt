@@ -1,0 +1,10 @@
+requests_oauthlib==1.2.0
+python-dotenv
+google-auth
+google-auth-oauthlib
+gspread
+atproto
+duckduckgo_search
+APScheduler
+google-genai
+requests
