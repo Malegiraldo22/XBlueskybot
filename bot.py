@@ -167,7 +167,7 @@ def internet_search(theme):
         region="wt-wt",
         safesearch="off",
         timelimit="d",
-        max_results=1
+        max_results=3
     )
 
     return results
