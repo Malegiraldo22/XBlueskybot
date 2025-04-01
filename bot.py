@@ -135,7 +135,8 @@ def theme_selection():
         "Global News & Geopolitics",
         "Elon Musk",
         "Donald Trump",
-        "Vladimir Putin"
+        "Vladimir Putin",
+        "F1"
     ]
 
     voices = [
